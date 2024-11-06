@@ -8,6 +8,7 @@ type currentUser ={
         };
         username: string;
     }
+
 }
 export default function ReplyBox( {currentUser}: currentUser){
     return(
